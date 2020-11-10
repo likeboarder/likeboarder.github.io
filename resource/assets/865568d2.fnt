@@ -1,0 +1,13 @@
+{"file":"ScoreBarDigits.png","frames":{
+"4":{"x":39,"y":58,"w":18,"h":26,"offX":0,"offY":1,"sourceW":18,"sourceH":28},
+"5":{"x":0,"y":59,"w":18,"h":26,"offX":0,"offY":1,"sourceW":18,"sourceH":28},
+"6":{"x":20,"y":30,"w":17,"h":28,"offX":1,"offY":0,"sourceW":18,"sourceH":28},
+"7":{"x":20,"y":86,"w":18,"h":26,"offX":0,"offY":1,"sourceW":18,"sourceH":28},
+"8":{"x":20,"y":0,"w":18,"h":28,"offX":0,"offY":0,"sourceW":18,"sourceH":28},
+"9":{"x":40,"y":0,"w":18,"h":27,"offX":0,"offY":0,"sourceW":18,"sourceH":28},
+".":{"x":30,"y":60,"w":7,"h":7,"offX":5,"offY":10,"sourceW":18,"sourceH":28},
+",":{"x":20,"y":60,"w":8,"h":11,"offX":5,"offY":8,"sourceW":18,"sourceH":28},
+"0":{"x":0,"y":0,"w":18,"h":28,"offX":0,"offY":0,"sourceW":18,"sourceH":28},
+"1":{"x":40,"y":86,"w":15,"h":26,"offX":2,"offY":1,"sourceW":18,"sourceH":28},
+"2":{"x":0,"y":30,"w":18,"h":27,"offX":0,"offY":0,"sourceW":18,"sourceH":28},
+"3":{"x":40,"y":29,"w":18,"h":27,"offX":0,"offY":0,"sourceW":18,"sourceH":28}}}
